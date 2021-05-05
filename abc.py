@@ -14,7 +14,8 @@ url_list = ['https://www.baidu.com/',
 'https://www.qq.com/',
 'https://www.163.com/',
 'http://www.iqiyi.com/',
-'https://www.tmall.com/',]
+'https://www.tmall.com/',
+'http://www.ifeng.com/',]
 #把8个网站封装成列表。
 
 def crawler(url):

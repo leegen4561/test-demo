@@ -1,4 +1,5 @@
 from gevent import monkey
+from "1.py" ImportError()
 #从gevent库里导入monkey模块。
 monkey.patch_all()
 #monkey.patch_all()能把程序变成协作式运行，就是可以帮助程序实现异步。
@@ -40,3 +41,4 @@ end = time.time()
 #记录程序结束时间。
 print(end-start)
 #打印程序最终所需时间。
+Print_la()
